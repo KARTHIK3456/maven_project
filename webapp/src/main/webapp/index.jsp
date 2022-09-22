@@ -12,7 +12,7 @@
     <div class="grid-2">
         <div class="section-1">
             <i class="fas fa-code fa-5x white"></i>
-            <h2>firstname lastname</h2>
+            <h2>login password</h2>
             <p>India</p>
             <a href="#"><i class="fab fa-twitter"></i></a>
             <a href="#"><i class="fab fa-linkedin"></i></a>
@@ -33,7 +33,7 @@
             <a href="#">Project 4</a>
             <a href="#">Project 5</a>
             <h2>Contact</h2>
-            <p>myEmail@email.com</p>
+            <p/ananthkrish3456@gmail.com</p>
         </div>
     </div>
 </body>
