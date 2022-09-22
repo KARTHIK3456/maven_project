@@ -33,7 +33,7 @@
             <a href="#">Project 4</a>
             <a href="#">Project 5</a>
             <h2>Contact</h2>
-            <p/ananthkrish3456@gmail.com</p>
+            <p>ananthkrish3456@gmail.com</p>
         </div>
     </div>
 </body>
